@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Attack on Titan",
+    "writer": "Hajime Isayama",
+    "artist": "Hajime Isayama",
+    "reads": "1M+",
+    "images": [
+      "https://via.placeholder.com/150?text=Attack+on+Titan+Image1",
+      "https://via.placeholder.com/150?text=Attack+on+Titan+Image2"
+    ],
+    "subtitles": [
+      "The Fall of Wall Maria",
+      "The Struggles of Humanity"
+    ],
+    "descriptions": [
+      "In the year 845, the Colossal Titan breaches Wall Maria, leading to the destruction of humanity's safety.",
+      "Eren Yeager vows to destroy all Titans after witnessing his mother being eaten alive by a Titan."
+    ]
+  },
+  {
+    "title": "My Hero Academia",
+    "writer": "Kohei Horikoshi",
+    "artist": "Kohei Horikoshi",
+    "reads": "900k+",
+    "images": [
+      "https://via.placeholder.com/150?text=My+Hero+Academia+Image1",
+      "https://via.placeholder.com/150?text=My+Hero+Academia+Image2"
+    ],
+    "subtitles": [
+      "Quirks: Humanity's New Power",
+      "The Rise of Izuku Midoriya"
+    ],
+    "descriptions": [
+      "In a world where nearly 80% of the population has superpowers called 'Quirks', heroes and villains arise.",
+      "Izuku Midoriya, a Quirkless boy, inherits the power of One For All and starts his journey to become the greatest hero."
+    ]
+  },
+  {
+    "title": "One Piece",
+    "writer": "Eiichiro Oda",
+    "artist": "Eiichiro Oda",
+    "reads": "3B+",
+    "images": [
+      "https://via.placeholder.com/150?text=One+Piece+Image1",
+      "https://via.placeholder.com/150?text=One+Piece+Image2"
+    ],
+    "subtitles": [
+      "The Grand Line",
+      "The Straw Hat Pirates"
+    ],
+    "descriptions": [
+      "Monkey D. Luffy and his crew set sail across the Grand Line, seeking the ultimate treasure known as One Piece.",
+      "Luffy gathers a diverse crew of Straw Hat Pirates, each with their own dreams and ambitions."
+    ]
+  }
+]
