@@ -15,6 +15,21 @@ import com.bumptech.glide.Glide;
 import java.io.Serializable;
 import java.util.List;
 
+
+import android.content.Context;
+import android.content.Intent;
+import android.content.SharedPreferences;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.ImageView;
+import android.widget.TextView;
+import androidx.annotation.NonNull;
+import androidx.recyclerview.widget.RecyclerView;
+import com.bumptech.glide.Glide;
+import java.io.Serializable;
+import java.util.List;
+
 public class WebtoonAdapter extends RecyclerView.Adapter<WebtoonAdapter.WebtoonViewHolder> {
 
     private Context context;
@@ -25,12 +40,6 @@ public class WebtoonAdapter extends RecyclerView.Adapter<WebtoonAdapter.WebtoonV
         this.context = context;
         this.webtoonList = webtoonList;
         this.sharedPreferences = context.getSharedPreferences("Favorites", Context.MODE_PRIVATE);
-    }
-
-    // Method to update the adapter's dataset
-    public void updateData(List<Webtoon> newWebtoonList) {
-        this.webtoonList = newWebtoonList;
-        notifyDataSetChanged();  // Notify the adapter to refresh the RecyclerView
     }
 
     @NonNull
@@ -44,10 +53,11 @@ public class WebtoonAdapter extends RecyclerView.Adapter<WebtoonAdapter.WebtoonV
     public void onBindViewHolder(@NonNull WebtoonViewHolder holder, int position) {
         Webtoon webtoon = webtoonList.get(position);
         holder.tvTitle.setText(webtoon.getTitle());
-        holder.tvDescription.setText(webtoon.getDescriptions().get(0)); // Short description
+        holder.tvDescription.setText(webtoon.getDescriptions().get(0)); // First description
 
+        // Load image using Glide
         Glide.with(context)
-                .load(webtoon.getImages().get(0)) // Load first image
+                .load(webtoon.getImages().get(0)) // Load the first image
                 .into(holder.imageView);
 
         // Check if this webtoon is in favorites
@@ -104,5 +114,10 @@ public class WebtoonAdapter extends RecyclerView.Adapter<WebtoonAdapter.WebtoonV
             imageView = itemView.findViewById(R.id.imageView);
             favoriteHeartIcon = itemView.findViewById(R.id.favoriteHeartIcon);
         }
+    }
+
+    public void updateData(List<Webtoon> newWebtoonList) {
+        this.webtoonList = newWebtoonList;
+        notifyDataSetChanged();
     }
 }

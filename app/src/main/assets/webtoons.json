@@ -1,56 +1,99 @@
 [
   {
-    "title": "Attack on Titan",
-    "writer": "Hajime Isayama",
-    "artist": "Hajime Isayama",
-    "reads": "1M+",
+    "title": "Naruto",
+    "writer": "Masashi Kishimoto",
+    "artist": "Masashi Kishimoto",
+    "reads": "1,000,000+",
     "images": [
-      "https://via.placeholder.com/150?text=Attack+on+Titan+Image1",
-      "https://via.placeholder.com/150?text=Attack+on+Titan+Image2"
+      "https://via.placeholder.com/400x600.png?text=Naruto+Image+1",
+      "https://via.placeholder.com/400x600.png?text=Naruto+Image+2"
     ],
     "subtitles": [
-      "The Fall of Wall Maria",
-      "The Struggles of Humanity"
+      "Naruto: The Beginning",
+      "Naruto: The Journey"
     ],
     "descriptions": [
-      "In the year 845, the Colossal Titan breaches Wall Maria, leading to the destruction of humanity's safety.",
-      "Eren Yeager vows to destroy all Titans after witnessing his mother being eaten alive by a Titan."
+      "Naruto Uzumaki is a young ninja with a dream to become the Hokage, the strongest ninja in his village. Rejected by the village due to the Nine-Tails fox spirit sealed within him, Naruto grows up seeking recognition. His loud, unpredictable nature masks his deep desire for acceptance. Through determination, hard work, and the bonds he forms, Naruto begins his journey to prove that he can surpass the expectations placed on him by his peers.",
+      "As the story unfolds, Naruto faces numerous powerful enemies, ranging from rogue ninjas to powerful organizations. His friendships with Sasuke, Sakura, and others help him mature. Naruto learns the true meaning of strength, resilience, and forgiveness. Alongside mastering powerful techniques, including the legendary Rasengan, Naruto grows not just as a ninja but as a protector of his people, slowly transforming into the hero the village once feared.",
+      "Throughout his journey, Naruto unearths the hidden truths about his own past, the nature of the Nine-Tails spirit, and the world of the shinobi. From his battles with enemies like Pain and the Akatsuki to the Fourth Great Ninja War, Naruto’s story is one of sacrifice, struggle, and an unwavering belief in peace. His quest to unite people and overcome hatred stands as a testament to his character, cementing his legacy in the world of ninjas."
     ]
   },
   {
-    "title": "My Hero Academia",
-    "writer": "Kohei Horikoshi",
-    "artist": "Kohei Horikoshi",
-    "reads": "900k+",
+    "title": "Attack on Titan",
+    "writer": "Hajime Isayama",
+    "artist": "Hajime Isayama",
+    "reads": "900,000+",
     "images": [
-      "https://via.placeholder.com/150?text=My+Hero+Academia+Image1",
-      "https://via.placeholder.com/150?text=My+Hero+Academia+Image2"
+      "https://via.placeholder.com/400x600.png?text=Attack+on+Titan+Image+1",
+      "https://via.placeholder.com/400x600.png?text=Attack+on+Titan+Image+2"
     ],
     "subtitles": [
-      "Quirks: Humanity's New Power",
-      "The Rise of Izuku Midoriya"
+      "The Fall of Wall Maria",
+      "The Titans' True Origin"
     ],
     "descriptions": [
-      "In a world where nearly 80% of the population has superpowers called 'Quirks', heroes and villains arise.",
-      "Izuku Midoriya, a Quirkless boy, inherits the power of One For All and starts his journey to become the greatest hero."
+      "In the world of Attack on Titan, humanity is on the brink of extinction, living within massive walls to protect themselves from giant humanoid creatures known as Titans. Eren Yeager, along with his friends Mikasa Ackerman and Armin Arlert, joins the military after a colossal Titan breaches the walls of their home, leading to the destruction of their town. Driven by rage and a desire for revenge, Eren swears to eradicate the Titans and protect humanity.",
+      "As Eren and his comrades ascend the ranks of the military, they uncover dark secrets about the Titans and the true history of their world. The once simplistic view of good versus evil begins to blur as shocking revelations about the Titans' origins emerge. Eren discovers his ability to transform into a Titan, making him a key player in the war between humanity and the mysterious creatures.",
+      "Throughout the series, the fight against the Titans evolves into a struggle for freedom and control. Eren’s relentless pursuit to break free from the cycle of violence leads to moral dilemmas that test the bonds between friends and foes. The shifting political landscapes, betrayals, and internal conflicts within humanity make Attack on Titan a complex tale of survival, rebellion, and the quest for truth."
     ]
   },
   {
     "title": "One Piece",
     "writer": "Eiichiro Oda",
     "artist": "Eiichiro Oda",
-    "reads": "3B+",
+    "reads": "1,500,000+",
     "images": [
-      "https://via.placeholder.com/150?text=One+Piece+Image1",
-      "https://via.placeholder.com/150?text=One+Piece+Image2"
+      "https://via.placeholder.com/400x600.png?text=One+Piece+Image+1",
+      "https://via.placeholder.com/400x600.png?text=One+Piece+Image+2",
+      "https://via.placeholder.com/400x600.png?text=One+Piece+Image+3"
     ],
     "subtitles": [
-      "The Grand Line",
-      "The Straw Hat Pirates"
+      "The Pirate King’s Treasure",
+      "Luffy’s Journey Begins",
+      "The Grand Line Adventures"
     ],
     "descriptions": [
-      "Monkey D. Luffy and his crew set sail across the Grand Line, seeking the ultimate treasure known as One Piece.",
-      "Luffy gathers a diverse crew of Straw Hat Pirates, each with their own dreams and ambitions."
+      "One Piece follows Monkey D. Luffy, a young pirate with dreams of finding the legendary treasure known as 'One Piece' and becoming the Pirate King. Inspired by his idol, the pirate Shanks, Luffy sets out on a grand adventure across the seas, gathering a loyal and diverse crew along the way. Each member of his crew brings their own unique abilities and goals, from the swordsman Zoro to the navigator Nami, and together they set sail towards the dangerous waters of the Grand Line.",
+      "Luffy’s quest for One Piece takes him through a world full of mysteries, mythical creatures, and dangerous adversaries, including rival pirates, the Marines, and the world government. Along the way, Luffy's crew discovers that the world they live in is filled with hidden truths, including the ancient history of the world, the lost civilization, and the enigmatic 'Will of D.'",
+      "The journey through the Grand Line is a test of both strength and willpower as Luffy faces increasingly powerful foes like the warlords of the sea, Emperor pirates, and even the Marines’ admirals. But beyond the battles and adventures, Luffy’s unwavering belief in his friends and his indomitable spirit to protect them at all costs are what define his journey. His dream isn’t just to become the Pirate King but to unite and inspire others to chase their own dreams."
+    ]
+  },
+  {
+    "title": "Demon Slayer",
+    "writer": "Koyoharu Gotouge",
+    "artist": "Koyoharu Gotouge",
+    "reads": "800,000+",
+    "images": [
+      "https://via.placeholder.com/400x600.png?text=Demon+Slayer+Image+1",
+      "https://via.placeholder.com/400x600.png?text=Demon+Slayer+Image+2"
+    ],
+    "subtitles": [
+      "Tanjiro’s Tragic Past",
+      "The Demon Slayers"
+    ],
+    "descriptions": [
+      "Demon Slayer follows Tanjiro Kamado, a kind-hearted boy whose family is brutally slaughtered by demons, leaving his younger sister, Nezuko, as the sole survivor. However, Nezuko has been turned into a demon herself. Determined to avenge his family and save his sister from her cursed fate, Tanjiro becomes a Demon Slayer. This elite group of warriors is tasked with protecting humanity by hunting down demons who prey on innocent lives.",
+      "As Tanjiro travels across Japan, he faces terrifying demons, each with their own unique abilities and tragic backstories. With the help of other Demon Slayers like the fiery Inosuke and the shy yet skilled Zenitsu, Tanjiro embarks on a quest to eradicate the demon race. His encounters with powerful foes like the Twelve Kizuki, demons directly serving the Demon King, Muzan Kibutsuji, push Tanjiro and his friends to their limits.",
+      "Demon Slayer is not just a tale of battles and swordsmanship but a deeply emotional journey of family, friendship, and sacrifice. Tanjiro's pure-hearted determination to cure his sister and protect others is central to the story, along with themes of empathy, as he learns that not all demons were born evil. The beautifully animated battles and heartfelt character moments make Demon Slayer a gripping tale of redemption and resilience."
+    ]
+  },
+  {
+    "title": "My Hero Academia",
+    "writer": "Kohei Horikoshi",
+    "artist": "Kohei Horikoshi",
+    "reads": "950,000+",
+    "images": [
+      "https://via.placeholder.com/400x600.png?text=My+Hero+Academia+Image+1",
+      "https://via.placeholder.com/400x600.png?text=My+Hero+Academia+Image+2"
+    ],
+    "subtitles": [
+      "Izuku Midoriya’s Dream",
+      "Becoming a Hero"
+    ],
+    "descriptions": [
+      "In a world where nearly 80% of the population has some form of superpower, known as 'Quirks,' My Hero Academia follows Izuku Midoriya, a boy born without a Quirk. Despite being powerless, Izuku dreams of becoming a hero like his idol, All Might, the world’s number one hero. After a fateful encounter with All Might, Izuku inherits his power, 'One For All,' and is given the opportunity to attend U.A. High School, a prestigious academy for heroes-in-training.",
+      "At U.A. High, Izuku faces rigorous training, fierce rivalries, and intense battles against villains, all while learning to control the immense power of One For All. Throughout his journey, Izuku grows from a timid, Quirkless boy into a courageous and selfless hero-in-training, determined to live up to All Might’s legacy and become the new Symbol of Peace.",
+      "My Hero Academia is not just about Izuku’s quest to become a hero, but also about the broader struggles between heroes and villains in a society where Quirks dictate one’s place. Izuku’s friendships, particularly with Katsuki Bakugo and Ochaco Uraraka, play a significant role in his development. As the series progresses, darker themes emerge, including the responsibilities of heroism, the cost of power, and the weight of being a symbol of hope in a world threatened by chaos."
     ]
   }
 ]

@@ -1,4 +1,5 @@
 package com.example.webtoon;
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -12,6 +13,7 @@ import com.example.webtoon.FavoritesActivity;
 import com.example.webtoon.R;
 import com.example.webtoon.Webtoon;
 import com.example.webtoon.WebtoonAdapter;
+import com.example.webtoon.WebtoonViewModel;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.ArrayList;
