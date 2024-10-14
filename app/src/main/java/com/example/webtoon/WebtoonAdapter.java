@@ -27,6 +27,12 @@ public class WebtoonAdapter extends RecyclerView.Adapter<WebtoonAdapter.WebtoonV
         this.sharedPreferences = context.getSharedPreferences("Favorites", Context.MODE_PRIVATE);
     }
 
+    // Method to update the adapter's dataset
+    public void updateData(List<Webtoon> newWebtoonList) {
+        this.webtoonList = newWebtoonList;
+        notifyDataSetChanged();  // Notify the adapter to refresh the RecyclerView
+    }
+
     @NonNull
     @Override
     public WebtoonViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
