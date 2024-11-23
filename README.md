@@ -1,17 +1,5 @@
-# Anime Characters Information App 📱
+# Webtoon 📱
 
-<p align="center">
-  <img src="app_logo.png" alt="App Logo" width="200"/>
-</p>
-
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
-  </a>
-  <a href="https://android-arsenal.com/api?level=21">
-    <img src="https://img.shields.io/badge/API-21%2B-brightgreen.svg" alt="API">
-  </a>
-</p>
 
 ## Overview 📖
 
@@ -42,13 +30,6 @@ Anime Characters Information App is an Android application designed to provide d
   - Offline access
   - Share characters
   
-## Screenshots 📸
-
-<p align="center">
-  <img src="screenshot1.png" width="200" alt="Home Screen"/>
-  <img src="screenshot2.png" width="200" alt="Character Details"/>
-  <img src="screenshot3.png" width="200" alt="Episode List"/>
-</p>
 
 ## Technologies Used 🛠
 
